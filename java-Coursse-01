@@ -1,8 +1,1 @@
 mkdir github-demo
-cd github-demo
-ls
-git init
-echo README
-git add.
-git status
-git commit-m "first commit"
